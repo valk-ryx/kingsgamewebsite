@@ -231,7 +231,6 @@ a:hover {
 ********************************************************************* */
 
 header {
-  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -250,7 +249,6 @@ header {
   -ms-flex-item-align: center;
   align-self: center;
   padding: 2rem;
-  max-width: 960px;
   text-align: center;
   font-weight: 900;
 }
