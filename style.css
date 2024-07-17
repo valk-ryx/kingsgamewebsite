@@ -234,6 +234,8 @@ header {
   display: -webkit-flex !important;
   display: -ms-flexbox !important;
   display: flex !important;
+  flex-wrap: nowrap;
+  flex-direction: row-reverse;
   width: 100%%;
   height: 100vh;
   background: #1d1d1b;
