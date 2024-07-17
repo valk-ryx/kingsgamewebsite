@@ -231,8 +231,8 @@ a:hover {
 ********************************************************************* */
 
 header {
-  display: -webkit-flex;
-  display: -ms-flexbox;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
   display: flex !important;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -245,9 +245,9 @@ header {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e55d87', endColorstr='#5fc3e4', GradientType=1 );
 }
 .title {
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  align-self: center;
+  -webkit-align-self: center !important;
+  -ms-flex-item-align: center !important;
+  align-self: center !important;
   padding: 2rem;
   text-align: center;
   font-weight: 900;
