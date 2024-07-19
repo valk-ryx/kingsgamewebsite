@@ -484,6 +484,8 @@ nav ul a:hover {
 }
 img {
   border-radius: 16px;
+  max-width: 100%;
+  height: auto !important;
 }
 #products {
   padding: 100px 0 100px 0;
