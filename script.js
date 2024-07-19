@@ -10,15 +10,6 @@ $(window).scroll(function () {
   }
 });
 
-// Mobile Navigation
-$(".mobile-toggle").click(function () {
-  if ($(".main_nav").hasClass("open-nav")) {
-    $(".main_nav").removeClass("open-nav");
-  } else {
-    $(".main_nav").addClass("open-nav");
-  }
-});
-
 $(".main_nav li a").click(function () {
   if ($(".main_nav").hasClass("open-nav")) {
     $(".navigation").removeClass("open-nav");
