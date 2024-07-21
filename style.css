@@ -479,6 +479,10 @@ nav ul a:hover {
 #discord {
   font-size: 1.5em;
 }
+form {
+  display: flex;
+  align-self: center;
+}
 #products {
   font-size: 1.5em;
 }
