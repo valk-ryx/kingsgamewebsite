@@ -825,3 +825,7 @@ form {
   position: relative;
   top: 12px;
 }
+.nav-logo {
+  position: relative;
+  bottom: 10px;
+}
