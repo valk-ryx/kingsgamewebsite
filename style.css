@@ -492,6 +492,8 @@ img {
   border-radius: 16px;
   max-width: 100%;
   height: auto !important;
+  position: relative;
+  left: 15;
 }
 #products {
   padding: 100px 0 100px 0;
