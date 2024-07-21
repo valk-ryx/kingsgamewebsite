@@ -468,7 +468,7 @@ nav ul a:hover {
 #about {
   padding: 100px 0 50px 0;
 }
-/* Game, Discord and Products Sections
+/* Game, Development and Products Sections
 ********************************************************************* */
 #game {
   padding: 50px 0 100px 0;
@@ -476,7 +476,7 @@ nav ul a:hover {
 #game {
   font-size: 1.5em;
 }
-#discord {
+#development {
   font-size: 1.5em;
 }
 form {
