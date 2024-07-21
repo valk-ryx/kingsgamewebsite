@@ -494,6 +494,12 @@ img {
   position: relative;
   left: 15;
   bottom: 10;
+  padding-bottom: 5px;
+}
+.product-img {
+  padding-bottom: 5px;
+  position: relative;
+  left: 20px;
 }
 #products {
   padding: 100px 0 100px 0;
