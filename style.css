@@ -744,6 +744,10 @@ li {
 button,
 .button {
   margin-bottom: 1rem;
+  background-color: #1d1d1b;
+  color: #fff;
+  border-radius: 12px;
+  height: 45px;
 }
 input,
 textarea,
