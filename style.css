@@ -482,6 +482,8 @@ nav ul a:hover {
 form {
   display: flex;
   align-self: center;
+  position: relative;
+  right: 15px;
 }
 #products {
   font-size: 1.5em;
