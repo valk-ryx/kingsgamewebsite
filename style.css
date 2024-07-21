@@ -828,5 +828,9 @@ form {
 }
 .nav-logo {
   position: relative;
-  bottom: 10px;
+  bottom: 2px;
+}
+nav {
+  position: relative;
+  bottom: 10;
 }
